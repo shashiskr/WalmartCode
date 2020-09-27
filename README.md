@@ -9,12 +9,10 @@ Project Versions:
 
 How to start-----------
 
-$ cd WalmartDemo
-$ ng serve
+1. npm install http-server -g
+2. http-server <WalmartDemo>
+3. open URL on browser : http://127.0.0.1:8080
 
-URL :  http://localhost:4200
-
-Note : Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload.
 
 
 
