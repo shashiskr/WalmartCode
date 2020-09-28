@@ -4,7 +4,7 @@
 Project Versions:
 	Node : v12.18.4
 	Angular : 10.1.1
-	NPM : 6.14.6
+	NPM : 6.14.6  
 
 
 How to start-----------
